@@ -139,5 +139,7 @@ int main() {
 	fin.close();
 	fout.close();
 
+    cout << "----" << endl;
+
 	return 0;
 }
