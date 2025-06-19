@@ -139,7 +139,7 @@ int main() {
 	fin.close();
 	fout.close();
 
-    cout << "----" << endl;
+    cout << "!!!" << endl;
 
 	return 0;
 }
